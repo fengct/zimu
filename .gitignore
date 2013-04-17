@@ -1,3 +1,9 @@
+Debug/
+Release/
+*.suo
+*.ncb
+*.user
+
 # Compiled Object files
 *.slo
 *.lo
